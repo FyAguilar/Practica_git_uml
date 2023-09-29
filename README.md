@@ -13,5 +13,6 @@ Las cartas númericas suman su valor, las cartas como "__J, Q, K__" suman 10 y e
 ## Diagramas:
 
 - Diagrama de casos de usos:
+
 - Diagramma de clases:
 - Diagrama de secuencia:
