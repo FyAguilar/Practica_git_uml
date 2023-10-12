@@ -1,3 +1,6 @@
+## Andrés Cerdas Padilla 20231020053
+## Fabian Yesith Aguilar Jiménez 20231020093
+
 # Ventiuna
 
 El juego de ventiuno es un juego de cartas, con una o más barajas perminte a dos jugadores pedir cartas hasta estar lo más proximo al valor de 21 sin pasarse.
